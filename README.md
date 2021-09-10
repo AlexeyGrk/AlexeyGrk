@@ -7,13 +7,14 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2018/09/glyph-logo_May2016-310x310.png![image](https://user-images.githubusercontent.com/66035199/132856588-2cd9ef96-2f40-4cd6-8eac-0ab64316996e.png)
+ (instgram icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/aleksei_gmirko/
+[2]: https://www.linkedin.com/in/alexey-gmirko-5606071aa/
 
 
 
