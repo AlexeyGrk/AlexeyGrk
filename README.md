@@ -7,8 +7,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2018/09/glyph-logo_May2016-15x15.png
- (instgram icon without padding)
+[1.2]:  <img src="https://freeonepagetemplates.com/vector-icons/instagram-icons/instagram-icon-2.svg" width="15px"
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
