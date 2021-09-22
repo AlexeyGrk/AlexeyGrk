@@ -2,7 +2,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🕹 I’m currently working on _amazing things_ ♻️
  🌱 I’m currently learning <img src="https://web-creator.ru/uploads/Page/22/nodejs.svg"
-     alt="Markdown Monster icon"
+     alt="Markdown Monster icon" width=20px
       />
 
 
