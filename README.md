@@ -1,5 +1,6 @@
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+Hi, there! I’m a Frontend web developer, working with the latest and most effective technologies. </br> I have build complex web-applications with 3rd party API integrations, e-commerce websites, customer relationship management (CRM)
 🕹 I’m currently working on _amazing things_ ♻️
 
  🌱 I’m currently learning  <img src="https://web-creator.ru/uploads/Page/22/nodejs.svg"
