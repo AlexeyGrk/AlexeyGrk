@@ -10,9 +10,10 @@
 
 
 <details>
-    <summary><b>My 🦾 Tech Stack </b></summary><br/>
+    <summary><b>My 🦾 Tech Stack <img src="https://media2.giphy.com/media/hCfESQ8r1eBOg/giphy.gif?cid=ecf05e47r3coxrszkdm3l11rfqzir1rtp4pj5mvm8vlpnqdg&rid=giphy.gif&ct=g" width="80px">  </b>  </summary><br/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css3"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="icon-css3"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-javascript"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon-typescript"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react"/>
@@ -22,7 +23,8 @@
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs-redux"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express-redux"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git-redux"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase-redux"/>
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase-redux"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="firebase-redux"/>
 </details>
 
 
