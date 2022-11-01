@@ -27,7 +27,7 @@
       />  <img src="https://camo.githubusercontent.com/94c215d7f2c57e13c70c13b55ce983dc9e241e6fe0a53348e9f07a8d124bbbb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666"
      alt="JS Icon"
       />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyGrk&hide_border=true&theme=vue)](https://github.com/AlexeyGrk/AlexeyGrk)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyGrk&hide_border=true&theme=vue&show_icons=true)](https://github.com/AlexeyGrk/AlexeyGrk)
 
 
 <!--
