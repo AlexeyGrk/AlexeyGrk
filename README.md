@@ -1,11 +1,12 @@
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  > Hi, there! I’m a Frontend web developer, working with the latest and most effective technologies. </br> > I have build complex web-applications with 3rd party API integrations, e-commerce websites, customer relationship management (CRM)
-🕹 I’m currently working on _amazing things_ ♻️
+# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  > I’m Oleksii and am the Frontend web developer, working with the latest and most effective technologies.  I have build complex web-applications with 3rd party API integrations, e-commerce websites, customer relationship management .  I’m just crazy about programming </br>
+
 
  🌱 I’m currently learning  <img src="https://web-creator.ru/uploads/Page/22/nodejs.svg"
      alt="Markdown Monster icon" width=20px
-      />
+      /> </br>
+  🕹 I’m currently working on _amazing things_ ♻️
 
 💻  My 🦾 Tech Stack:
 
@@ -27,6 +28,7 @@
      alt="JS Icon"
       />
       
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeygrk&show_icons=true&theme=transparent)
 
 <!--
 **AlexeyGrk/AlexeyGrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
