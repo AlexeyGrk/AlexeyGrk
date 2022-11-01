@@ -10,7 +10,7 @@
 
 
 <details>
-    <summary><b>My 🦾 Tech Stack <img src="https://media2.giphy.com/media/hCfESQ8r1eBOg/giphy.gif?cid=ecf05e47r3coxrszkdm3l11rfqzir1rtp4pj5mvm8vlpnqdg&rid=giphy.gif&ct=g" width="80px">  </b>  </summary><br/>
+    <summary><b>My 🦾 Tech Stack &nbsp; <img src="https://media2.giphy.com/media/hCfESQ8r1eBOg/giphy.gif?cid=ecf05e47r3coxrszkdm3l11rfqzir1rtp4pj5mvm8vlpnqdg&rid=giphy.gif&ct=g" width="80px">  </b>  </summary><br/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css3"/>
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="icon-css3"/>
