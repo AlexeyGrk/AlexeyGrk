@@ -35,8 +35,8 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyGrk&hide_border=true&theme=vue&show_icons=true)](https://github.com/AlexeyGrk/AlexeyGrk)
 
 
-##  How to contact me 📩: 
-<a  href="https://www.linkedin.com/in/alexey-gmirko/" target="_blank" rel="noopener"> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-icon"/></a>
+##  How to contact me : 
+&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/alexey-gmirko/" target="_blank" rel="noopener"> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-icon"/></a>
 &nbsp;<a  href="https://twitter.com/alxgmrk" target="_blank" rel="noopener"> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter-icon"/></a>
 &nbsp;<a  href="mailto:alexgmirko@gmail.com" target="_blank" rel="noopener"> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="google-icon"/></a>
 &nbsp;<a  href="https://telegram.me/alexeygmirko" target="_blank" rel="noopener"> <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram-icon"/></a>
