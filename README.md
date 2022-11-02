@@ -1,6 +1,6 @@
 
 # Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  > I’m Oleksii and am the Frontend web developer, working with the latest and most effective technologies.  I have build complex web-applications with 3rd party API integrations, e-commerce websites, customer relationship management.
+  > I’m Oleksii and am Frontend web developer, working with the latest and most effective technologies.  I have build complex web-applications with 3rd party API integrations, e-commerce websites, customer relationship management.
   ></br><sub>Notes:&nbsp;</sub><sub>I’m just crazy about *programming* :heart_eyes:</sub>
 </br>
 
